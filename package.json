@@ -58,7 +58,7 @@
 		"react-bootstrap": "^1.0.0-beta.16",
 		"react-dom": "^16.12.0",
 		"react-icons": "^3.10.0",
-		"sass": "^1.57.1"
+		"sass": "^1.79.0"
 	},
 	"lint-staged": {
 		"*.{js,jsx}": [
